@@ -7,6 +7,7 @@ This project focuses on predicting customer churn using IBM SPSS Modeler. By lev
 - **Rikesh Yadav**
 - **Mugdha Singh**
 - **Pushpendra Kumar**
+-  **Prajjawal Kumar**
 
 ## Tools and Technologies
 - **IBM SPSS Modeler**: A powerful tool for data mining and predictive analytics.
@@ -63,5 +64,4 @@ To run this project, you must have IBM SPSS Modeler installed. After downloading
 ## Acknowledgments
 - **Kaggle** for providing the dataset.
 - **IBM** for the powerful SPSS Modeler tool.
-- **Our Team Members**: Rikesh Yadav, Mugdha Singh, and Pushpendra Kumar for collaborating on this project.
-
+- **Our Team Members**: Rikesh Yadav, Mugdha Singh, Prajjawal Kumar and Pushpendra Kumar for collaborating on this project.
